@@ -21,3 +21,9 @@ pub extern "C" fn add(x: i32, y: i32) -> i32 {
     x + y
 }
 ```
+
+- result
+```
+Golang Result: 3
+Rust Result: 7
+```
